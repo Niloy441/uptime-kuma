@@ -200,7 +200,7 @@
         "prismjs": "~1.30.0",
         "qrcode": "~1.5.4",
         "rollup-plugin-visualizer": "^5.14.0",
-        "sass": "~1.42.1",
+        "sass": "^1.108.1",
         "stylelint": "^15.11.0",
         "stylelint-config-prettier": "^9.0.5",
         "stylelint-config-standard": "~25.0.0",
