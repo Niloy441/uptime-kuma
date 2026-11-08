@@ -32,6 +32,11 @@ export default defineConfig({
         }),
     ],
     css: {
+        preprocessorOptions: {
+            scss: {
+                api: "legacy",
+            },
+        },
         postcss: {
             parser: postCssScss,
             map: false,
